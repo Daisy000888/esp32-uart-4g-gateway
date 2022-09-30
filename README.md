@@ -2,7 +2,7 @@
 
 Sponsored by [TowerSoftware](http://www.towersoftwareltd.com/)
 
-<img src="https://github.com/hotteshen/esp32-uart-4g-gateway/blob/master/doc/preview-3d.png?raw=true">
+<img src="https://github.com/hotteshen/esp32-uart-4g-gateway/blob/master/doc/preview-3d-v1.2.png?raw=true">
 <img src="https://github.com/hotteshen/esp32-uart-4g-gateway/blob/master/doc/preview-v1.0-testing.png?raw=true">
 
 ## Overview
@@ -27,6 +27,11 @@ An ESP32 powered gateway between 4G cellular and RS485 networks.
 
 
 ## CHangeLog
+
+### 1.2
+
+* remove one WK2312, move UART pins for display and RS 485 direct to the ESP32
+* improve EG95 antenna routing
 
 ### 1.1
 
